@@ -487,6 +487,12 @@ mark,
   height: auto;
 }
 
+.img-hover{
+  max-width: 100%;
+  height: auto;
+  opacity:0.4
+}
+
 .figure {
   display: inline-block;
 }
